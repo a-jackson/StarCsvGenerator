@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "StarSvgGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "hygdata_v3.csv stars.svg",
+      "workingDirectory": ".."
+    }
+  }
+}
